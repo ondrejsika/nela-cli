@@ -5,7 +5,7 @@ Print out the picture of Nela to the terminal!
 ## Install using Brew
 
 ```bash
-brew install sikalabs/tap/nela-cli
+brew install sikalabs/tap/nela
 ```
 
 ## Run
