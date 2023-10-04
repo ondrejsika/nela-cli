@@ -13,3 +13,5 @@ brew install sikalabs/tap/nela
 ```bash
 nela
 ```
+
+![terminal-window-with-nela](terminal-window-with-nela.png)
