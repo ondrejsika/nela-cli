@@ -10,6 +10,6 @@ var Cmd = &cobra.Command{
 	Use:   "nela",
 	Short: "nela, " + version.Version,
 	Run: func(c *cobra.Command, args []string) {
-		nela.PrintNela()
+		nela.PrintRandomNela()
 	},
 }
