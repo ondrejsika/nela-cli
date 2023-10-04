@@ -10,8 +10,8 @@
 *.backup
 
 # Go
-nela
-nela-cli
+/nela
+/nela-cli
 *.exe
 /dist/**
 cobra-docs
